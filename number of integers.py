@@ -1,2 +1,2 @@
-a=int(raw_input())
+a=int(input())
 print len(str(abs(a)))
